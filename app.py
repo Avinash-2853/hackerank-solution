@@ -9,3 +9,5 @@ def add_to_cart(item):
 
 def greet(name):
     print(f"Hi {name}")
+
+print("App closed")
