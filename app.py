@@ -8,4 +8,6 @@ def add_to_cart(item):
     print(f"{item} added")
 
 def greet(name):
-    print(f"Hi {name}")
+    print(f"Hello {name}")
+
+print("App started")
